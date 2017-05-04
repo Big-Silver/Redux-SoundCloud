@@ -8,9 +8,11 @@ The Redux-SoundCloud is built by [Big-Silver].
 
 ## Quick Start
 
-1. `npm install`
-2. `npm run start`
-3. visit `http://localhost:8080`
+1. `git clone https://github.com/Big-Silver/Redux-SoundCloud.git redux-sound`
+2. `cd redux-sound`
+3. `npm install`
+4. `npm start`
+5. visit `http://localhost:8080`
 
 ## Install local server
 
